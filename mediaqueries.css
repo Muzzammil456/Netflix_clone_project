@@ -1,0 +1,428 @@
+@media only screen and (max-width: 1449px) {
+  .navbar img {
+    height: 43px;
+    width: 139px;
+  }
+
+  .maincontent h1 {
+    font-size: 46px;
+    width: 592px;
+  }
+
+  .input input {
+    width: 425px;
+    height: 60px;
+  }
+
+  .input button {
+    font-size: 23px;
+    padding: 0px 16px;
+  }
+}
+
+@media only screen and (max-width: 1210px) {
+  .rightitem1 img {
+    width: 418px;
+  }
+
+  .rightitem1 video {
+    width: 298px;
+  }
+
+  .leftitem1 p {
+    font-size: 21px;
+    width: 379px;
+    padding-top: 30px;
+  }
+
+  .leftitem1 h1 {
+    font-size: 43px;
+  }
+
+  .leftitem2 img {
+    width: 403px;
+  }
+
+  .rightitem2 h1 {
+    width: 437px;
+    font-size: 35px;
+  }
+
+  .rightitem2 p {
+    padding-top: 20px;
+    width: 370px;
+    font-size: 15px;
+  }
+
+  .main4 h1 {
+    font-size: 39px;
+  }
+
+  .main4 p {
+    width: 342px;
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 300;
+  }
+
+  h1 {
+    font-size: 36px;
+  }
+
+  h3 {
+    font-size: 17px;
+  }
+
+  .rightitem3 h3 {
+    width: 392px;
+    font-weight: 300;
+  }
+
+  .leftitem3 img {
+    width: 388px;
+  }
+}
+
+@media only screen and (max-width: 978px) {
+  .rightitem2 {
+    padding-left: 8px;
+  }
+
+  .rightitem1 {
+    padding-right: 128px;
+  }
+
+  .leftitem1 {
+    padding-left: 100px;
+  }
+}
+
+@media only screen and (max-width: 949px) {
+  .navbar img {
+    height: 32px;
+    width: 108px;
+  }
+
+  .input {
+    display: grid;
+  }
+
+  .input button {
+    font-size: 17px;
+    padding: 10px 9px;
+    margin: 0 194px;
+  }
+
+  input {
+    margin: 11px;
+  }
+
+  .maincontent p {
+    padding-top: 16px;
+    text-align: center;
+    width: 433px;
+  }
+
+  .input input {
+    width: 474px;
+    height: 60px;
+  }
+
+  .input2 {
+    display: grid;
+  }
+
+  .main2 {
+    height: 633px;
+    display: block;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    /* width: 100%; */
+    background-color: black;
+    padding-top: 0px;
+    padding-right: 0px;
+  }
+
+  .leftitem1 {
+    padding-left: 0px;
+    width: 100%;
+    padding-top: 63px;
+    text-align: center;
+  }
+
+  .leftitem1 p {
+    font-size: 21px;
+    width: 100%;
+    padding-top: 30px;
+  }
+
+  .rightitem1 {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    padding-right: 0;
+  }
+
+  .rightitem1 img {
+    width: 528px;
+  }
+
+  .rightitem1 video {
+    width: 392px;
+  }
+
+  .main3 {
+    height: 585px;
+    flex-direction: column-reverse;
+    padding-top: 0;
+  }
+
+  .rightitem2 {
+    padding-left: 8px;
+    padding-top: 0;
+  }
+
+  .rightitem2 h1 {
+    width: 100%;
+    font-size: 35px;
+  }
+
+  .rightitem2 {
+    padding-left: 8px;
+    padding-top: 0;
+    text-align: center;
+    width: 100%;
+  }
+
+  .rightitem2 p {
+    padding-top: 20px;
+    width: 100%;
+    font-size: 18px;
+  }
+
+  .leftitem2 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .leftitem2 img {
+    width: 496px;
+  }
+
+  .items1 {
+    padding-right: 0;
+    padding-top: 60px;
+    text-align: center;
+  }
+
+  .main4 p {
+    width: 100%;
+    padding-top: 20px;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: center;
+  }
+
+  .rightitem3 {
+    padding-top: 28px;
+    padding-left: 0;
+    text-align: center;
+  }
+
+  .main5 {
+    height: 509px;
+    background-color: black;
+    display: flex;
+    padding-top: 0;
+    flex-direction: column-reverse;
+    justify-content: center;
+  }
+
+  .rightitem3 h3 {
+    width: 98%;
+    font-weight: 300;
+  }
+
+  .leftitem3 {
+    display: flex;
+    justify-content: center;
+  }
+
+  .main7items {
+    padding-left: 13%;
+  }
+}
+
+@media only screen and (max-width: 736px) {
+  .items {
+    width: 96%;
+  }
+
+  .main7 {
+    font-size: 13px;
+  }
+
+  .main7linkitems {
+    grid-template-columns: 137px 158px 159px 186px;
+  }
+}
+
+@media only screen and (max-width: 582px) {
+  .main1 {
+    min-height: 582px;
+  }
+
+  .leftitem1 h1 {
+    font-size: 33px;
+  }
+
+  .leftitem1 p {
+    font-size: 15px;
+  }
+
+  .maincontent h1 {
+    font-size: 26px;
+    width: 417px;
+  }
+
+  .maincontent h3 {
+    font-size: 22px;
+    font-weight: 300;
+    padding-top: 15px;
+    text-align: center;
+  }
+
+  .maincontent p {
+    padding-top: 16px;
+    text-align: center;
+    width: 433px;
+    font-size: 14px;
+  }
+
+  .input input {
+    width: 92%;
+    height: 60px;
+  }
+
+  .input button {
+    font-size: 17px;
+    padding: 10px 9px;
+    margin: 0 161px;
+  }
+
+  .main1 .maincontent {
+    padding-top: 117px;
+  }
+
+  .main7items {
+    padding-left: 4%;
+  }
+
+  .main7linkitems {
+    grid-template-columns: 154px 171px 159px;
+  }
+
+  .rightitem1 video {
+    width: 66%;
+    padding: 15% 89px;
+  }
+
+  .leftitem2 img {
+    width: 74%;
+  }
+
+  .rightitem1 img {
+    width: 94%;
+  }
+
+  .rightitem2 h1 {
+    width: 100%;
+    font-size: 32px;
+  }
+
+  .rightitem2 p {
+    padding-top: 20px;
+    width: 100%;
+    font-size: 16px;
+  }
+
+  .rightitem2 h1 {
+    width: 100%;
+    font-size: 31px;
+  }
+
+  .rightitem2 p {
+    padding-top: 20px;
+    width: 100%;
+    font-size: 15px;
+  }
+
+  .main4 h1 {
+    font-size: 33px;
+  }
+
+  .main4 p {
+    width: 100%;
+    padding-top: 20px;
+    font-size: 15px;
+    font-weight: 300;
+    text-align: center;
+  }
+
+  h1 {
+    font-size: 33px;
+  }
+
+  h3 {
+    font-size: 14px;
+  }
+}
+
+@media only screen and (max-width: 477px) {
+  .main7linkitems {
+    grid-template-columns: 208px 124px;
+  }
+
+  .main2 {
+    height: 495px;
+  }
+
+  .main3 {
+    height: 484px;
+  }
+}
+
+@media only screen and (max-width: 444px) {
+  .input button {
+    margin: 0 103px;
+  }
+}
+
+@media only screen and (max-width: 326px) {
+  .main7linkitems {
+    grid-template-columns: 146px 121px;
+  }
+
+  .leftitem3 img {
+    width: 263px;
+  }
+
+  .input button {
+    margin: 0 77px;
+  }
+
+  .maincontent h1 {
+    font-size: 24px;
+    width: 312px;
+  }
+
+  .maincontent h3 {
+    font-size: 17px;
+  }
+
+  .maincontent p {
+    width: 300px;
+    font-size: 11px;
+  }
+}
